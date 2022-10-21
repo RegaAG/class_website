@@ -1,0 +1,15 @@
+body {
+    background-image: url(gambar/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.logo {
+    padding: 20px;
+    display: block;
+    margin: auto;
+    width: 250px;
+    height: 250px;
+}
